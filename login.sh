@@ -4,7 +4,7 @@ clear
 x=1;
 while [ $x=1 ] ;
 do
-  echo "Welcome to Bodian-Script"
+  echo "Welcome to Bodian-Script Dane"
   echo "========================"
   read -p 'username: ' username
   read -sp 'password: ' password
